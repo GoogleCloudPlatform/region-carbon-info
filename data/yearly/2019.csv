@@ -1,0 +1,32 @@
+region,region_name,grid_cfe,google_cfe,grid_gCO2perkWh
+asia-east1,Taiwan,19%,19%,541
+asia-east2,Hong Kong,,,
+asia-northeast1,Tokyo,,,
+asia-northeast2,Osaka,,,
+asia-northeast3,Seoul,26%,26%,
+asia-south1,Mumbai,,,
+asia-south2,Delhi,,,
+asia-southeast1,Singapore,3%,3%,493
+asia-southeast2,Jakarta,,,
+asia-west1,Doha,,,
+australia-southeast1,Sydney,11%,11%,725
+australia-southeast2,Melbourne,,,
+europe-central2,Warsaw,,,
+europe-north1,Finland,76%,77%,181
+europe-west1,Belgium,68%,68%,196
+europe-west2,London,54%,54%,257
+europe-west3,Frankfurt,61%,61%,319
+europe-west4,Netherlands,24%,61%,474
+europe-west6,Zurich,,,
+northamerica-northeast1,Montréal,,,
+northamerica-northeast2,Toronto,,,
+southamerica-east1,São Paulo,87%,87%,109
+us-central1,Iowa,29%,78%,479
+us-central2,Oklahoma,,,
+us-east1,South Carolina,19%,19%,500
+us-east2,Georgia,,,
+us-east4,Northern Virginia,41%,41%,383
+us-west1,Oregon,89%,89%,117
+us-west2,Los Angeles,55%,55%,248
+us-west3,Salt Lake City,25%,25%,561
+us-west4,Las Vegas,13%,13%,491
