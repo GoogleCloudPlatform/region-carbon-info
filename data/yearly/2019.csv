@@ -1,32 +1,25 @@
-region,region_name,grid_cfe,google_cfe,grid_gCO2perkWh
-asia-east1,Taiwan,19%,19%,541
-asia-east2,Hong Kong,,,
-asia-northeast1,Tokyo,,,
-asia-northeast2,Osaka,,,
-asia-northeast3,Seoul,26%,26%,
-asia-south1,Mumbai,,,
-asia-south2,Delhi,,,
-asia-southeast1,Singapore,3%,3%,493
-asia-southeast2,Jakarta,,,
-asia-west1,Doha,,,
-australia-southeast1,Sydney,11%,11%,725
-australia-southeast2,Melbourne,,,
-europe-central2,Warsaw,,,
-europe-north1,Finland,76%,77%,181
-europe-west1,Belgium,68%,68%,196
-europe-west2,London,54%,54%,257
-europe-west3,Frankfurt,61%,61%,319
-europe-west4,Netherlands,24%,61%,474
-europe-west6,Zurich,,,
-northamerica-northeast1,Montréal,,,
-northamerica-northeast2,Toronto,,,
-southamerica-east1,São Paulo,87%,87%,109
-us-central1,Iowa,29%,78%,479
-us-central2,Oklahoma,,,
-us-east1,South Carolina,19%,19%,500
-us-east2,Georgia,,,
-us-east4,Northern Virginia,41%,41%,383
-us-west1,Oregon,89%,89%,117
-us-west2,Los Angeles,55%,55%,248
-us-west3,Salt Lake City,25%,25%,561
-us-west4,Las Vegas,13%,13%,491
+Cloud Region,Location,Google CFE%,Grid gCO2eq / kWh,Google gCO2eq after offsets
+asia-east1,Taiwan,19%,541,0
+asia-east2,Hong Kong,,626,0
+asia-northeast1,Tokyo,,524,0
+asia-northeast2,Osaka,,524,0
+asia-northeast3,Seoul,,540,0
+asia-south1,Mumbai,,723,0
+asia-southeast1,Singapore,3%,493,0
+asia-southeast2,Jakarta,,772,0
+australia-southeast1,Sydney,11%,725,0
+europe-north1,Finland,77%,181,0
+europe-west1,Belgium,68%,196,0
+europe-west2,London,54%,257,0
+europe-west3,Frankfurt,61%,319,0
+europe-west4,Netherlands,61%,474,0
+europe-west6,Zurich,,29,0
+northamerica-northeast1,Montreal,,143,0
+southamerica-east1,Sao Paulo,87%,109,0
+us-central1,Iowa,78%,479,0
+us-east1,South Carolina,19%,500,0
+us-east4,Northern Virginia,41%,383,0
+us-west1,Oregon,89%,117,0
+us-west2,Los Angeles,55%,248,0
+us-west3,Salt Lake City,25%,561,0
+us-west4,Las Vegas,13%,491,0
