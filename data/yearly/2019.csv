@@ -1,4 +1,4 @@
-Cloud Region,Location,Google CFE%,Grid gCO2eq / kWh,Google gCO2eq after offsets
+Google Cloud Region,Location,Google CFE%,Grid carbon intensity (gCO2eq / kWh),Google Cloud net carbon emissions
 asia-east1,Taiwan,19%,541,0
 asia-east2,Hong Kong,,626,0
 asia-northeast1,Tokyo,,524,0
