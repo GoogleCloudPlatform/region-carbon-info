@@ -1,6 +1,6 @@
 # Carbon free energy for Google Cloud regions 
 
-This repository contains csustainablity characteristics of Google Cloud regions in a machine readable format. Read more [on the Google Cloud website](https://cloud.google.com/sustainability/region-carbon).
+This repository contains sustainablity characteristics of Google Cloud regions in a machine readable format. Read more [on the Google Cloud website](https://cloud.google.com/sustainability/region-carbon).
 
 ## Data
 
