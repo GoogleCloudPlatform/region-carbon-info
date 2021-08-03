@@ -5,6 +5,7 @@ This repository contains sustainability characteristics of Google Cloud regions 
 ## Data
 
 * **[2019](data/yearly/2019.csv)**
+* **[2020](data/yearly/2020.csv)**
 
 ## Understanding the data
 
