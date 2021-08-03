@@ -1,20 +1,20 @@
 Google Cloud Region,Location,Google CFE,Grid carbon intensity (gCO2eq / kWh),Google Cloud net carbon emissions
 asia-east1,Taiwan,0.19,541,0
-asia-east2,Hong Kong,,626,0
-asia-northeast1,Tokyo,,524,0
-asia-northeast2,Osaka,,524,0
-asia-northeast3,Seoul,,540,0
-asia-south1,Mumbai,,723,0
+asia-east2,Hong Kong,,506,0
+asia-northeast1,Tokyo,,569,0
+asia-northeast2,Osaka,,414,0
+asia-northeast3,Seoul,,490,0
+asia-south1,Mumbai,,752,0
 asia-southeast1,Singapore,0.03,493,0
-asia-southeast2,Jakarta,,772,0
+asia-southeast2,Jakarta,,647,0
 australia-southeast1,Sydney,0.11,725,0
 europe-north1,Finland,0.77,181,0
 europe-west1,Belgium,0.68,196,0
 europe-west2,London,0.54,257,0
 europe-west3,Frankfurt,0.61,319,0
 europe-west4,Netherlands,0.61,474,0
-europe-west6,Zurich,,29,0
-northamerica-northeast1,Montreal,,143,0
+europe-west6,Zurich,,87,0
+northamerica-northeast1,Montreal,,27,0
 southamerica-east1,Sao Paulo,0.87,109,0
 us-central1,Iowa,0.78,479,0
 us-east1,South Carolina,0.19,500,0
