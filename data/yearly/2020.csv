@@ -1,4 +1,4 @@
-Google Cloud Region,Location,Google CFE,Lifecycle grid carbon intensity (gCO2eq / kWh),Google Cloud net carbon emissions
+Google Cloud Region,Location,Google CFE,Lifecycle grid carbon intensity (gCO2eq / kWh),Google Cloud net operational GHG emissions
 asia-east1,Taiwan,0.18,540,0
 asia-east2,Hong Kong,,453,0
 asia-northeast1,Tokyo,0.12,554,0
