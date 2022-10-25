@@ -1,35 +1,35 @@
-Google Cloud Region,Location,Google CFE,Grid carbon intensity (gCO2eq / kWh),Google Cloud net operational GHG emissions	
-asia-east1,Taiwan,0.17,456,0
-asia-east2,Hong Kong,0.28,360,0
-asia-northeast1,Tokyo,0.16,464,0
-asia-northeast2,Osaka,0.31,384,0
-asia-northeast3,Seoul,0.31,425,0
-asia-south1,Mumbai,0.23,633,0
-asia-south2,Delhi,0.23,633,0
-asia-southeast1,Singapore,0.04,372,0
-asia-southeast2,Jakarta,0.13,580,0
-australia-southeast1,Sydney,0.11,723,0
-australia-southeast2,Melbourne,0.11,746,0
-europe-central2,Warsaw,0.20,576,0
-europe-north1,Finland,0.91,127,0
-europe-southwest1,Madrid,,121,0
-europe-west1,Belgium,0.82,110,0
-europe-west2,London,0.57,172,0
-europe-west3,Frankfurt,0.60,269,0
-europe-west4,Netherlands,0.53,283,0
-europe-west6,Zurich,0.85,86,0
-europe-west8,Milan,,298,0
-europe-west9,Paris,,59,0
-northamerica-northeast1,Montréal,0.95,142,0
-northamerica-northeast2,Toronto,0.86,142,0
-southamerica-east1,São Paulo,0.78,129,0
-southamerica-west1,Santiago,0.69,190,0
-us-central1,Iowa,0.97,394,0
-us-east1,South Carolina,0.25,434,0
-us-east4,Northern Virginia,0.64,309,0
-us-east5,Columbus,0.64,309,0
-us-south1,Dallas,0.40,296,0
-us-west1,Oregon,0.88,60,0
-us-west2,Los Angeles,0.53,190,0
-us-west3,Salt Lake City,0.31,448,0
-us-west4,Las Vegas,0.21,365,0
+Google Cloud Region,Location,zone_id,Google CFE,Grid carbon intensity (gCO2eq / kWh),Google Cloud net carbon emissions
+asia-east1,Taiwan,TW,0.17,456,0
+asia-east2,Hong Kong,HK,0.28,360,0
+asia-northeast1,Tokyo,JP-TK,0.16,464,0
+asia-northeast2,Osaka,JP-KN,0.31,384,0
+asia-northeast3,Seoul,KR,0.31,425,0
+asia-south1,Mumbai,IN-MH,0.10,670,0
+asia-south2,Delhi,IN-UP,0.08,671,0
+asia-southeast1,Singapore,SG,0.04,372,0
+asia-southeast2,Jakarta,ID,0.13,580,0
+australia-southeast1,Sydney,AUS-NSW,0.21,598,0
+australia-southeast2,Melbourne,AUS-VIC,0.31,521,0
+europe-central2,Warsaw,PL,0.20,576,0
+europe-north1,Finland,FI,0.91,127,0
+europe-southwest1,Madrid,ES,,121,0
+europe-west1,Belgium,BE,0.82,110,0
+europe-west2,London,GB,0.57,172,0
+europe-west3,Frankfurt,DE,0.60,269,0
+europe-west4,Netherlands,NL,0.53,283,0
+europe-west6,Zurich,CH,0.85,86,0
+europe-west8,Milan,IT,,298,0
+europe-west9,Paris,FR,,59,0
+northamerica-northeast1,Montréal,CA-QC,1.00,0,0
+northamerica-northeast2,Toronto,CA-ON,0.92,29,0
+southamerica-east1,São Paulo,BR-CS,0.78,129,0
+southamerica-west1,Santiago,CL-SEN,0.69,190,0
+us-central1,Iowa,US-MIDW-MISO,0.97,394,0
+us-east1,South Carolina,US-CAR-SC,0.25,434,0
+us-east4,Northern Virginia,US-MIDA-PJM,0.64,309,0
+us-east5,Columbus,US-MIDA-PJM,0.64,309,0
+us-south1,Dallas,US-TEX-ERCO,0.40,296,0
+us-west1,Oregon,US-NW-BPAT,0.88,60,0
+us-west2,Los Angeles,US-CAL-CISO,0.53,190,0
+us-west3,Salt Lake City,US-NW-PACE,0.31,448,0
+us-west4,Las Vegas,US-NW-NEVP,0.21,365,0
