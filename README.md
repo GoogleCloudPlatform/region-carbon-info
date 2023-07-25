@@ -7,6 +7,7 @@ This repository contains sustainability characteristics of Google Cloud regions 
 * **[2019](data/yearly/2019.csv)**
 * **[2020](data/yearly/2020.csv)**
 * **[2021](data/yearly/2021.csv)**
+* **[2022](data/yearly/2022.csv)**
 
 ## Understanding the data
 
