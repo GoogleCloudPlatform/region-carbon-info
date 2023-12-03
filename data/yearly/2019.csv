@@ -1,25 +1,25 @@
-Google Cloud Region,Location,Google CFE,Lifecycle grid carbon intensity (gCO2eq / kWh),Google Cloud net operational GHG emissions
-asia-east1,Taiwan,0.19,541,0
-asia-east2,Hong Kong,,506,0
-asia-northeast1,Tokyo,,569,0
-asia-northeast2,Osaka,,414,0
-asia-northeast3,Seoul,,490,0
-asia-south1,Mumbai,,752,0
-asia-southeast1,Singapore,0.03,493,0
-asia-southeast2,Jakarta,,647,0
-australia-southeast1,Sydney,0.11,725,0
-europe-north1,Finland,0.77,181,0
-europe-west1,Belgium,0.68,196,0
-europe-west2,London,0.54,257,0
-europe-west3,Frankfurt,0.61,319,0
-europe-west4,Netherlands,0.61,474,0
-europe-west6,Zurich,,87,0
-northamerica-northeast1,Montreal,,27,0
-southamerica-east1,Sao Paulo,0.87,109,0
-us-central1,Iowa,0.78,479,0
-us-east1,South Carolina,0.19,500,0
-us-east4,Northern Virginia,0.41,383,0
-us-west1,Oregon,0.89,117,0
-us-west2,Los Angeles,0.55,248,0
-us-west3,Salt Lake City,0.25,561,0
-us-west4,Las Vegas,0.13,491,0
+Google Cloud Region,Location,Google CFE,Lifecycle grid carbon intensity (gCO2eq / kWh)
+asia-east1,Taiwan,0.19,541
+asia-east2,Hong Kong,,506
+asia-northeast1,Tokyo,,569
+asia-northeast2,Osaka,,414
+asia-northeast3,Seoul,,490
+asia-south1,Mumbai,,752
+asia-southeast1,Singapore,0.03,493
+asia-southeast2,Jakarta,,647
+australia-southeast1,Sydney,0.11,725
+europe-north1,Finland,0.77,181
+europe-west1,Belgium,0.68,196
+europe-west2,London,0.54,257
+europe-west3,Frankfurt,0.61,319
+europe-west4,Netherlands,0.61,474
+europe-west6,Zurich,,87
+northamerica-northeast1,Montreal,,27
+southamerica-east1,Sao Paulo,0.87,109
+us-central1,Iowa,0.78,479
+us-east1,South Carolina,0.19,500
+us-east4,Northern Virginia,0.41,383
+us-west1,Oregon,0.89,117
+us-west2,Los Angeles,0.55,248
+us-west3,Salt Lake City,0.25,561
+us-west4,Las Vegas,0.13,491

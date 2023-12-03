@@ -15,4 +15,3 @@ This repository contains sustainability characteristics of Google Cloud regions 
 
 **Grid carbon intensity (gCO2eq/kWh)**: This metric indicates the average operational gross emissions per unit of energy from the grid. This metric should be used to compare the regions in terms of carbon intensity of their electricity from the local grid. For regions that are similar in CFE%, this will indicate the relative emissions for when your workload is not running on carbon free energy. As an example, Frankfurt and the Netherlands have similar CFE scores, but the Netherlands has a higher emissions factor.
 
-**Google Cloud net operational greenhouse gas (GHG) emissions**: After calculating our Scope 2 market-based emissions per the GHG Protocol including our renewable energy contracts, Google ensures any remaining Scope 2 emissions are neutralized by investments in carbon offsets; this brings our global net operational emissions to zero.
