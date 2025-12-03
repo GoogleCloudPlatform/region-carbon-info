@@ -24,6 +24,7 @@ europe-west8,Milan,0.73,201.69
 europe-west9,Paris,0.96,16.30
 europe-west10,Berlin,0.68,275.82
 europe-west12,Turin,0.73,201.69
+me-central1,Doha,0.01,366
 me-central2,Dammam,0.01,382.23
 me-west1,Tel Aviv,0.07,433.75
 northamerica-northeast1,Montréal,0.99,5.48
@@ -32,9 +33,11 @@ northamerica-south1,Mexico,0.19,305.00
 southamerica-east1,Sāo Paulo,0.88,67.32
 southamerica-west1,Santiago,0.92,238.00
 us-central1,Iowa,0.87,412.72
+us-central2,Oklahoma,0.88,372.23
 us-east1,South Carolina,0.31,575.77
 us-east2,Georgia,0.42,340.42
 us-east4,Northern Virginia,0.62,323.05
+us-east5,Columbus,0.62,323.05
 us-south1,Dallas,0.94,302.95
 us-west1,Oregon,0.87,79.23
 us-west2,Los Angeles,0.63,169.28
