@@ -1,0 +1,48 @@
+Google Cloud Region,Location,Google CFE,Grid carbon intensity (gCO2eq / kWh)
+africa-south1,Johannesburg,0.15,641.42
+asia-east1,Taiwan,0.15,427.95
+asia-east2,Hong Kong,0.02,488.52
+asia-northeast1,Tokyo,0.23,449.23
+asia-northeast2,Osaka,0.45,298.92
+asia-northeast3,Seoul,0.37,359.05
+asia-south1,Mumbai,0.2,598.45
+asia-south2,Delhi,0.39,472.55
+asia-southeast1,Singapore,0.05,365.66
+asia-southeast2,Jakarta,0.15,587.8
+asia-southeast3,Bangkok,0.19,364.68
+australia-southeast1,Sydney,0.37,468.34
+australia-southeast2,Melbourne,0.44,415.89
+europe-central2,Warsaw,0.81,498.57
+europe-north1,Finland,0.98,29.84
+europe-north2,Stockholm,1,19.39
+europe-southwest1,Madrid,0.87,95.75
+europe-west1,Belgium,0.79,126.43
+europe-west2,London,0.75,109.39
+europe-west3,Frankfurt,0.7,275.81
+europe-west4,Eemshaven,0.82,194.35
+europe-west5,N/A,0.7,275.81
+europe-west6,Zürich,0.97,21.2
+europe-west8,Milan,0.79,202.03
+europe-west9,Paris,0.96,15.83
+europe-west10,Berlin,0.7,275.81
+europe-west12,Turin,0.79,202.03
+me-central1,Doha,0,370
+me-central2,Dammam,0.01,381.29
+me-west1,Tel Aviv,0.13,380.95
+northamerica-northeast1,Montréal,0.97,11.36
+northamerica-northeast2,Toronto,0.8,74.2
+northamerica-south1,Mexico,0.25,293.25
+southamerica-east1,Sāo Paulo,0.87,73.25
+southamerica-west1,Santiago,0.9,209.94
+us-central1,Iowa,0.88,431.95
+us-central2,Oklahoma,0.84,417.39
+us-east1,South Carolina,0.31,579.44
+us-east2,Georgia,0.42,391.2
+us-east4,Northern Virginia,0.57,343.48
+us-east5,Columbus,0.57,343.48
+us-east7,Alabama and Tennessee,0.58,339.89
+us-south1,Dallas,0.83,299.13
+us-west1,Oregon,0.83,97.85
+us-west2,Los Angeles,0.66,149.91
+us-west3,Salt Lake City,0.36,567.51
+us-west4,Las Vegas,0.65,360
